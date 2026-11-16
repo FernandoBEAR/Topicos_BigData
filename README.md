@@ -9,11 +9,12 @@
 6. HADOOP (Almacenamiento distribuido)
 7. HIVE (SQL)
 8. SPARK ()
-9. Pyspark (Lenguaje de Python + Spark)
-10. DATABRICKS (Procesamiento en Nube)
-11. Jenkins (CI/CD)
-12. Apache Airflow (Orquestación)
-13. SSH (Conexión Remota)
+9. MongoDB (Base de datos no relacional)
+10. Pyspark (Lenguaje de Python + Spark)
+11. DATABRICKS (Procesamiento en Nube)
+12. Jenkins (CI/CD)
+13. Apache Airflow (Orquestación)
+14. SSH (Conexión Remota)
 
 ## METODOLOGÍAS
 
